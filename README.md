@@ -79,7 +79,7 @@ To run this portfolio locally, follow these steps:
 
 ## Demo
 
-Link: https://drive.google.com/file/d/1QIRK0IFAWvg_PG0kpIEoWjxqnInVdbxG/view?usp=drive_link
+Link: https://youtu.be/CzosNeGrnks
 
 ---
 
