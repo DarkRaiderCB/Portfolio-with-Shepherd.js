@@ -35,14 +35,23 @@ This portfolio is a multi-page website that highlights my journey as an AI and M
 
 ## Project Structure
 .
+
 ├── index.html # Home page
+
 ├── academic.html # Academic details page
+
 ├── projects.html # Projects page
+
 ├── skills.html # Technical skills page
+
 ├── achievements.html # Achievements page
+
 ├── contact.html # Contact form page
+
 ├── style.css # Central CSS file for styling
+
 ├── main.js # JavaScript for Shepherd.js tour
+
 └── README.md # This file
 
 ## Installation
