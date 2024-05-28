@@ -1,7 +1,7 @@
-# Sanyog Mishra's Personal Portfolio
+# Personal Portfolio
 
 Welcome to my personal portfolio website! This project showcases my academic background, projects, technical skills, achievements, and provides a way to contact me. 
-**This is a very basic implementation demonstrating the the application of Shepherd.js to create a guided tour.**
+**This is a very basic implementation focusing on demonstrating the application of Shepherd.js to create a guided tour.**
 
 ## Table of Contents
 
