@@ -10,6 +10,7 @@ Welcome to my personal portfolio website! This project showcases my academic bac
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
+- [Demo](#demo)
 
 
 ## Introduction
@@ -75,6 +76,10 @@ To run this portfolio locally, follow these steps:
    http://localhost:8000/
    ```
 7. Open the `index.html` file to view the portfolio.
+
+## Demo
+
+Link: https://drive.google.com/file/d/1QIRK0IFAWvg_PG0kpIEoWjxqnInVdbxG/view?usp=drive_link
 
 ---
 
