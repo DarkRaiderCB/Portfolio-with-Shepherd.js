@@ -81,6 +81,10 @@ To run this portfolio locally, follow these steps:
 
 Link: https://youtu.be/CzosNeGrnks
 
+## Netlify Link
+
+https://sanyog46.netlify.app/
+
 ---
 
 Thank you for visiting my portfolio!
