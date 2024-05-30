@@ -22,7 +22,7 @@ This portfolio is a multi-page website that highlights my journey as an AI and M
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling the website.
 - **JavaScript**: For interactive elements and the guided tour using Shepherd.js.
-- **Shepherd.js**: For creating the guided tour.
+- **Shepherd.js (included via CDN)**: For creating the guided tour.
 
 ## Features
 
@@ -71,11 +71,11 @@ To run this portfolio locally, follow these steps:
    ```python
    python -m http.server 8000
    ```
-5. Open a browser of your choice and enter in search box:
+4. Open a browser of your choice and enter in search box:
    ```bash
    http://localhost:8000/
    ```
-7. Open the `index.html` file to view the portfolio.
+5. Open the `index.html` file to view the portfolio.
 
 ## Demo
 
